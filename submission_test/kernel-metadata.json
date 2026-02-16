@@ -1,0 +1,13 @@
+{
+  "id": "kizabgd123/med-gemma-impact-placeholder",
+  "title": "Med-Gemma Impact Challenge - Placeholder",
+  "code_file": "med_gemma_placeholder.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": ["med-gemma-impact-challenge"],
+  "kernel_sources": []
+}
